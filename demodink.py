@@ -1,1 +1,1 @@
-print("commit sudoku");
+print("commit");
