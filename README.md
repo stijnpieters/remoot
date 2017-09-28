@@ -1,9 +1,8 @@
 # demoGit
 demo van git
-commit sudoku
- the fuck 
+commit qdfsqsdf
+wat 
 cabrio
 dak er af
 =======
-negers
 master
