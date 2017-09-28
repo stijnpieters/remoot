@@ -5,5 +5,4 @@ commit sudoku
 cabrio
 dak er af
 =======
-negers
 master
